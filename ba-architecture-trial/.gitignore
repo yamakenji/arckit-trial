@@ -1,4 +1,4 @@
 # ArcKit local/session memory
 .arckit/memory/.last-session
-.arckit/memory/.telemetry.json
+.arckit/memory/.telemetry.jsonl
 .arckit/memory/sessions.md
